@@ -1,6 +1,6 @@
 baseurl: /ClimateClub
 permalink: pretty
-markdown: rdiscount
+markdown: kramdown
 prose:
   rooturl: '_posts'
   siteurl: 'http://zemptime.github.io/ClimateClub/'
